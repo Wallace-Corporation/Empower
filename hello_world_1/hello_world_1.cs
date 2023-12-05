@@ -17,6 +17,7 @@ namespace hello_world_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
+			//dies ist ein KOmmentart mit Rechtschreibfehlern
 			engine.GenerateInformation("hello world und kai");
 		}
 	}
